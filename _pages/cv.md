@@ -13,9 +13,8 @@ You can find my CV here: [Curriculum Vitae](../assets/CV.pdf)
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.M. in Fudan University, 2016
+* M.D. in Fudan University, 2022(expected)
 
 Work experience
 ======
