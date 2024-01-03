@@ -12,10 +12,10 @@ I am a doctoral student in clinical medicine (vascular surgery) at [Fudan Univer
 
 【Contact information】
 
-【Wechat】vei1939318032   
+Wechat：vei1939318032   
 
-【Tel】18702126367   
+Tel：18702126367   
 
-【Email】...
+Email：...
 
 
