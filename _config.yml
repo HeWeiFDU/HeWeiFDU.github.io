@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "He Wei/Personal Homepage"
+title                    : "Wei He/Personal Homepage"
 title_separator          : "-"
-name                     : &name "He Wei"
+name                     : &name "Wei He"
 description              : &description "personal description"
 url                      : https://heweifdu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "He Wei"
+  name             : "Wei He"
   avatar           : "Profile.png"
   bio              : "Fudan University"
   location         : "China Shanghai"
