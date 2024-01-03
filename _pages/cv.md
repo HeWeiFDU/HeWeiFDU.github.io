@@ -18,43 +18,23 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* CET4
+* CET6
+* CPE
 
-Publications
+Awards
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+2017年复旦大学优秀共青团员
+2017年复旦大学优秀学生
+2019年复旦大学优秀学生
+2021年复旦大学优秀共青团员干部
+复旦大学新生奖学金二等奖
+2017年本科优秀学生奖学金二等奖
+2019年本科优秀学生奖学金三等奖
+2020年本科优秀学生奖学金三等奖
+2022学年博士生优秀学业一等奖学金
+2022-2023学年国家奖学金
+
